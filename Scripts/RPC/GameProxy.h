@@ -3,7 +3,7 @@
 
 #define CODE 0x89
 
-class CNetworkUtils; // Àü¹æ ¼±¾ð
+class CNetworkUtils; // Ã€Ã¼Â¹Ã¦ Â¼Â±Â¾Ã°
 
 class CGameProxy
 {
